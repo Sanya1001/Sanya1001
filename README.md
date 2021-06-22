@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 📍 I also love debating   
 
 ### ⭐️ Pursuits
-> - I am currently practising my front-end skills by building websites <br>
-> - I am interested in data visualization and AI <br>
+> - I am currently practising/ improving my front-end skills by building websites <br>
+> - I am interested in data visualization/ analysis and AI <br>
 > - My primary programming language for back-end is Java but I've also learnt Python recently<br>
 > - I also know a bit of mobile app development using Flutter <br>
 > - I am learning the data analysis modules of python   
@@ -40,8 +40,10 @@ Here are some ideas to get you started:
 ### ⭐️ Check out
 - [Portfolio](https://sanya1001.github.io/)
 - [Responsive Web design certification](https://www.freecodecamp.org/certification/sanya1001/responsive-web-design) from freeCodeCamp
+- [Data Analysis with Python developer certification](https://www.freecodecamp.org/certification/sanya1001/data-analysis-with-python-v7) from freeCodeCamp
 - Some of my sample website(s)
     - [Resume Builder](https://sanya1001.github.io/rbuild)
+    - [Sample Portfolio website](https://sanya1001.github.io/portfolio)
 
 ### ⭐️ Contact
 Email me at sinhasaniasls@gmail.com
