@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 - I hope to learn SQL and Machine Learning with Python in some time     
 - I am working on projects for two hackathons     
 - I plan to attempt the freeCodeCamp JavaScript DSA certification tests soon   
+- I am learning from the undergraduate AI course at MIT OCW
 
 ### ⭐️ Check out
 - [Responsive Web design certification](https://www.freecodecamp.org/certification/sanya1001/responsive-web-design) from freeCodeCamp
