@@ -47,3 +47,6 @@ Here are some ideas to get you started:
 
 ### ⭐️ Contact
 Email me at sinhasaniasls@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya1001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
