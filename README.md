@@ -42,13 +42,13 @@ Here are some ideas to get you started:
 - I am currently practising/ improving my front-end skills by building websites     
 - I am interested in data visualization/ analysis and AI; I'm currently working on D3.js            
 - I hope to learn SQL and Machine Learning with Python in some time     
-- I am working on projects for two hackathons     
-- I plan to attempt the freeCodeCamp JavaScript DSA certification tests soon   
+- I am working on projects for two hackathons        
 - I am learning from the undergraduate AI course of MIT OCW
 
 ### ⭐️ Check out
 - [Responsive Web design certification](https://www.freecodecamp.org/certification/sanya1001/responsive-web-design) from freeCodeCamp
 - [Data Analysis with Python developer certification](https://www.freecodecamp.org/certification/sanya1001/data-analysis-with-python-v7) from freeCodeCamp
+- [JavaScript Algorithms and Data Structures developer certification](https://www.freecodecamp.org/certification/sanya1001/javascript-algorithms-and-data-structures) from freeCodeCamp
 - Some of my sample website(s)
     - [Resume Builder](https://sanya1001.github.io/rbuild)
     - [Sample Portfolio website](https://sanya1001.github.io/portfolio)
