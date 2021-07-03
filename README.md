@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 📍 My personality type is ENFJ-T aka Protagonist ([read more](https://www.16personalities.com/enfj-personality)...)  
 📍 Coding, math and art are my primary interests       
 📍 I am a fast paced self learner (and a bit of a workaholic)          
-📍 I love technology aimed at increasing accessibility, inclusivity and mental health (or health in general)    
-📍 I have some experience in leadership + management as a former head of my school's student council and other clubs       
-📍 I am a debater and MUNer, with particular interest in topics related to Human Rights     
+📍 I love technology aimed at increasing accessibility, inclusivity and mental health (or health in general)        
 
 ### ⭐️ Languages and experience
 - Java: 6+ years
@@ -42,8 +40,6 @@ Here are some ideas to get you started:
 - I am currently practising/ improving my front-end skills by building websites     
 - I am interested in data visualization/ analysis and AI; I'm currently working on D3.js            
 - I hope to learn SQL and Machine Learning with Python in some time     
-- I am working on projects for two hackathons        
-- I am learning from the undergraduate AI course of MIT OCW
 
 ### ⭐️ Check out
 - [Responsive Web design certification](https://www.freecodecamp.org/certification/sanya1001/responsive-web-design) from freeCodeCamp
