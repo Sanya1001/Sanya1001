@@ -50,7 +50,8 @@ Here are some ideas to get you started:
     - [Sample Portfolio website](https://sanya1001.github.io/portfolio)
 
 ### ⭐️ Contact
-Email me at sinhasaniasls@gmail.com
+Email me at sinhasaniasls@gmail.com      
+[LinkedIn](https://www.linkedin.com/in/sania-sinha-20aa07216/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya1001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
