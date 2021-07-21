@@ -38,13 +38,14 @@ Here are some ideas to get you started:
 
 ### ⭐️ Pursuits
 - I am currently practising/ improving my front-end skills by building websites     
-- I am interested in data visualization/ analysis and AI; I'm currently working on D3.js            
+- I am interested in data visualization/ analysis and AI            
 - I hope to learn SQL and Machine Learning with Python in some time     
 
 ### ⭐️ Check out
 - [Responsive Web design certification](https://www.freecodecamp.org/certification/sanya1001/responsive-web-design) from freeCodeCamp
 - [Data Analysis with Python developer certification](https://www.freecodecamp.org/certification/sanya1001/data-analysis-with-python-v7) from freeCodeCamp
 - [JavaScript Algorithms and Data Structures developer certification](https://www.freecodecamp.org/certification/sanya1001/javascript-algorithms-and-data-structures) from freeCodeCamp
+- [Scientific Computing with python certification](https://www.freecodecamp.org/certification/sanya1001/scientific-computing-with-python-v7) from freeCodeCamp
 - Some of my sample website(s)
     - [Resume Builder](https://sanya1001.github.io/rbuild)
     - [Sample Portfolio website](https://sanya1001.github.io/portfolio)
@@ -54,4 +55,3 @@ Email me at sinhasaniasls@gmail.com
 [LinkedIn](https://www.linkedin.com/in/sania-sinha-20aa07216/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya1001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
