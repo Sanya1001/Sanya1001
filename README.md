@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 ### ⭐️ Pursuits
 - I am currently practising/ improving my front-end skills by building websites     
 - I am interested in data visualization/ analysis and AI            
-- I hope to learn SQL and Machine Learning with Python in some time     
+- I hope to learn SQL in some time     
+- I am currently working on Machine Learning with Python      
 
 ### ⭐️ Check out
 - [Responsive Web design certification](https://www.freecodecamp.org/certification/sanya1001/responsive-web-design) from freeCodeCamp
