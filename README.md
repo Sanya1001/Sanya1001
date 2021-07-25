@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 
 ### ⭐️ Contact
 Email me at sinhasaniasls@gmail.com      
-[LinkedIn](https://www.linkedin.com/in/sania-sinha-20aa07216/)
+Reach me on [LinkedIn](https://www.linkedin.com/in/sania-sinha-20aa07216/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya1001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
