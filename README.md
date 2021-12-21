@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 - Python: 6 months    
 - Linux CLI: 6 months
 - Dart: <6 months
-- (Arduino: I learnt beginner level skills in 2018 while working in a robotics lab but I have since not used it in any project, nor do I have any practice in it. I do not include it in a list of skills)
+- Arduino: <6 months
 
 ### ⭐️ Pursuits
 - I am currently practising/ improving my front-end skills by building websites     
 - I am interested in data visualization/ analysis and AI            
-- I hope to learn SQL in some time     
+- I hope to learn C++ in some time     
 - I am currently working on Machine Learning with Python      
 
 ### ⭐️ Check out
@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 - Some of my sample website(s)
     - [Resume Builder](https://sanya1001.github.io/rbuild)
     - [Sample Portfolio website](https://sanya1001.github.io/portfolio)
+    - [Conference Website](https://clear-workshop.github.io/)
+    - [Sample Portfolio website 2](https://sanya1001.github.io/portfolio2/)
 
 ### ⭐️ Contact
 Email me at sinhasaniasls@gmail.com      
