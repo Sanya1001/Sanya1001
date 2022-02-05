@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 Email me at sinhasaniasls@gmail.com      
 Reach me on [LinkedIn](https://www.linkedin.com/in/sania-sinha-20aa07216/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya1001&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya1001&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
