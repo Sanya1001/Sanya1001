@@ -31,15 +31,16 @@ Here are some ideas to get you started:
 - Java: 6+ years
 - HTML: 6+ years
 - JavaScript: 1+ year
-- Python: 6 months    
-- Linux CLI: 6 months
+- Python: 1+ year
+- CSS: 1+ year    
+- Linux CLI: <1 year
 - Dart: <6 months
 - Arduino: <6 months
 
 ### ⭐️ Pursuits
 - I am currently practising/ improving my front-end skills by building websites     
 - I am interested in data visualization/ analysis and AI            
-- I hope to learn C++ in some time     
+- I am currently learning C++      
 - I am currently working on Machine Learning with Python      
 
 ### ⭐️ Check out
