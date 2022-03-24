@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 ### ⭐️ About Me
 📍 My pronouns are she/they   
-📍 My personality type is ENFJ-T aka Protagonist ([read more](https://www.16personalities.com/enfj-personality)...)  
-📍 Coding, math and art are my primary interests       
-📍 I am a fast paced self learner (and a bit of a workaholic)          
+📍 Coding, math and art are my primary interests                 
 📍 I love technology aimed at increasing accessibility, inclusivity and mental health (or health in general)        
 
 ### ⭐️ Languages and experience
