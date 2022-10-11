@@ -22,24 +22,24 @@ Here are some ideas to get you started:
 
 ### ⭐️ About Me
 📍 My pronouns are she/they   
-📍 Coding, math and art are my primary interests                 
-📍 I love technology aimed at increasing accessibility, inclusivity and mental health (or health in general)        
+📍 Coding, math and art are my primary interests                         
 
 ### ⭐️ Languages and experience
 - Java: 6+ years
 - HTML: 6+ years
-- JavaScript: 1+ year
-- Python: 1+ year
-- CSS: 1+ year    
-- Linux CLI: <1 year
+- JavaScript: 2+ year
+- Python: 2+ year
+- CSS: 2+ year    
+- Linux CLI: ~1 year
 - Dart: <6 months
 - Arduino: <6 months
+- C++: <6 months
+- R: <6 months
 
-### ⭐️ Pursuits
-- I am currently practising/ improving my front-end skills by building websites     
+### ⭐️ Pursuits   
 - I am interested in data visualization/ analysis and AI            
-- I am currently learning C++      
-- I am currently working on Machine Learning with Python      
+- I am currently learning C++ and R      
+- I am currently working on surveying Compositional Learning and implementation of rule based reasoning for logical QA     
 
 ### ⭐️ Check out
 - [Responsive Web design certification](https://www.freecodecamp.org/certification/sanya1001/responsive-web-design) from freeCodeCamp
