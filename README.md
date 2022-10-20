@@ -25,16 +25,7 @@ Here are some ideas to get you started:
 📍 Coding, math and art are my primary interests                         
 
 ### ⭐️ Languages and experience
-- Java: 6+ years
-- HTML: 6+ years
-- JavaScript: 2+ year
-- Python: 2+ year
-- CSS: 2+ year    
-- Linux CLI: ~1 year
-- Dart: <6 months
-- Arduino: <6 months
-- C++: <6 months
-- R: <6 months
+Java: 6+ years, HTML: 6+ years, JavaScript: 2+ year, Python: 2+ year, CSS: 2+ year, Linux CLI: ~1 year, Dart: <6 months, Arduino: <6 months, C++: <6 months, R: <6 months
 
 ### ⭐️ Pursuits   
 - I am interested in data visualization/ analysis and AI            
