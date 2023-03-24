@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ## Hi there! I'm Sanya ✨ 
 <hr style="color: blue">
 
-**🎀 I am open to collaborations, discussions on interesting topics and learning new things! Feel free to mail me**  
 **❗️Please visit [my website](https://sanya1001.github.io/) for a detailed overview of my skills**
 
 ### ⭐️ About Me
@@ -25,12 +24,13 @@ Here are some ideas to get you started:
 📍 Coding, math and art are my primary interests                         
 
 ### ⭐️ Languages and experience
-Java: 6+ years, HTML: 6+ years, JavaScript: 2+ year, Python: 2+ year, CSS: 2+ year, Linux CLI: ~1 year, Dart: <6 months, Arduino: <6 months, C++: <6 months, R: <6 months
+HTML: 7+ years, Java: 6+ years, Python: 3+ year, JavaScript: 3+ year, CSS: 3+ year, R: 1+ year, C++: ~1 year, Linux CLI: ~1 year, C: <6 months,
+Assembly: <6 months, Dart: <6 months, Arduino: <6 months
 
 ### ⭐️ Pursuits   
-- I am interested in data visualization/ analysis and AI            
-- I am currently learning C++ and R      
-- I am currently working on surveying Compositional Learning and implementation of rule based reasoning for logical QA     
+- I am interested in data visualization/ analysis and AI                
+- I am currently working on surveying Compositional Learning
+- I am working on text annotation and automatic speech recognition     
 
 ### ⭐️ Check out
 - [Responsive Web design certification](https://www.freecodecamp.org/certification/sanya1001/responsive-web-design) from freeCodeCamp
@@ -38,6 +38,7 @@ Java: 6+ years, HTML: 6+ years, JavaScript: 2+ year, Python: 2+ year, CSS: 2+ ye
 - [JavaScript Algorithms and Data Structures developer certification](https://www.freecodecamp.org/certification/sanya1001/javascript-algorithms-and-data-structures) from freeCodeCamp
 - [Scientific Computing with python certification](https://www.freecodecamp.org/certification/sanya1001/scientific-computing-with-python-v7) from freeCodeCamp
 - Some of my sample website(s)
+    - [WebDev Kids](https://sanya1001.github.io/webdevkids/)
     - [Resume Builder](https://sanya1001.github.io/rbuild)
     - [Sample Portfolio website](https://sanya1001.github.io/portfolio)
     - [Conference Website](https://clear-workshop.github.io/)
