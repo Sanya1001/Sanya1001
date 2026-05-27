@@ -23,20 +23,10 @@ Here are some ideas to get you started:
 📍 My pronouns are she/they   
 📍 Coding, math and art are my primary interests                         
 
-### ⭐️ Languages and experience
-HTML: 7+ years, Java: 6+ years, Python: 3+ year, JavaScript: 3+ year, CSS: 3+ year, R: 1+ year, C++: ~1 year, Linux CLI: ~1 year, C: <6 months,
-Assembly: <6 months, Dart: <6 months, Arduino: <6 months
-
 ### ⭐️ Pursuits   
-- I am interested in data visualization/ analysis and AI                
-- I am currently working on surveying Compositional Learning
-- I am working on text annotation and automatic speech recognition     
+- I am interested in robustness in Machine Learning and multi-modal learning    
 
 ### ⭐️ Check out
-- [Responsive Web design certification](https://www.freecodecamp.org/certification/sanya1001/responsive-web-design) from freeCodeCamp
-- [Data Analysis with Python developer certification](https://www.freecodecamp.org/certification/sanya1001/data-analysis-with-python-v7) from freeCodeCamp
-- [JavaScript Algorithms and Data Structures developer certification](https://www.freecodecamp.org/certification/sanya1001/javascript-algorithms-and-data-structures) from freeCodeCamp
-- [Scientific Computing with python certification](https://www.freecodecamp.org/certification/sanya1001/scientific-computing-with-python-v7) from freeCodeCamp
 - Some of my sample website(s)
     - [WebDev Kids](https://sanya1001.github.io/webdevkids/)
     - [Resume Builder](https://sanya1001.github.io/rbuild)
